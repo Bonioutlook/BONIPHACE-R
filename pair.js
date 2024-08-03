@@ -76,7 +76,7 @@ router.get('/', async (req, res) => {
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/boniphace704/boniphace_md_*
+𓄂 *_https://github.com/boniphace478/BONIPHACE-MD_*
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
